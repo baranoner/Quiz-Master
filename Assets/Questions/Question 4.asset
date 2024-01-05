@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfa4e159a3d9b674999319dc7c12401c, type: 3}
+  m_Name: Question 4
+  m_EditorClassIdentifier: 
+  question: Which DND video game won the GOTY?
+  answers:
+  - Baldurs Gate
+  - Disco Elysium
+  - Baldurs Gate 3
+  - Pathfinder
+  CorrectanswerIndex: 2
